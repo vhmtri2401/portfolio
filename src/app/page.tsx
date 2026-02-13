@@ -118,7 +118,7 @@ export default function HomePage() {
                 {/* Avatar container */}
                 <div className="relative w-80 h-80 rounded-full overflow-hidden border-4 border-white dark:border-gray-800 shadow-2xl">
                   <Image
-                    src="/avatar.jpg"
+                    src={`${process.env.NEXT_PUBLIC_BASE_PATH || ''}/avatar.jpg`}
                     alt={data.profile.name}
                     fill
                     className="object-cover"

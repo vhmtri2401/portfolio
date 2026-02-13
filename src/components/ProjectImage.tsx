@@ -22,9 +22,12 @@ export function ProjectImage({ src, alt, fallbackLetter }: ProjectImageProps) {
         );
     }
 
+    const basePath = process.env.NEXT_PUBLIC_BASE_PATH || '';
+    const imageSrc = src.startsWith('/') ? `${basePath}${src}` : src;
+
     return (
         <Image
-            src={src}
+            src={imageSrc}
             alt={alt}
             fill
             className="object-cover transition-transform duration-300 group-hover:scale-105"
