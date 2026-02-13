@@ -1,0 +1,254 @@
+{
+  "profile": {
+    "name": "Vo Hoang Minh Tri",
+    "title": "AI Researcher",
+    "tagline": "Building intelligent vision systems and NLP solutions",
+    "bio": "I graduated with a degree in Data Science at Industrial University of Ho Chi Minh City with a passion for computer vision and natural language processing. Runner-up at ZALO AI Challenge 2025, I specialize in developing robust tracking systems, medical image analysis, and generative AI applications. My work spans from drone-based aerial tracking to breast cancer detection using deep learning.",
+    "email": "vhmtri2401@gmail.com",
+    "phone": "0819690924",
+    "links": {
+      "github": "https://github.com/vhmtri2401",
+      "linkedin": "https://www.linkedin.com/in/tr%C3%AD-v%C3%B5-2a03bb39a/",
+      "scholar": "",
+      "website": "https://portfolio-delta-steel-22.vercel.app/"
+    },
+    "location": "Ho Chi Minh City, Vietnam"
+  },
+  "education": [
+    {
+      "id": "edu-1",
+      "degree": "Bachelor of Data Science",
+      "institution": "Industrial University of Ho Chi Minh City (IUH)",
+      "dates": "October 2020 - July 2025",
+      "location": "Ho Chi Minh City, Vietnam",
+      "gpa": "3.22/4.0",
+      "coursework": [
+        "Data Science",
+        "Data Structures and Algorithms",
+        "Object Oriented Programming",
+        "Machine Learning",
+        "Computer Vision",
+        "Natural Language Processing"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": "project-1",
+      "title": "Robust Aerial Target Tracking",
+      "summary": "Runner-up solution at ZALO AI Challenge 2025 for drone-based aerial target tracking with high accuracy and stability.",
+      "description": "Developed a comprehensive aerial tracking system using YOLOE with v8m backbone. Implemented background removal preprocessing, Re-prompting and Constant-Velocity Fill Method for stable predictions, and deployed on drone hardware via Docker.",
+      "tags": [
+        "Computer Vision",
+        "PyTorch",
+        "YOLO",
+        "Docker",
+        "Drone"
+      ],
+      "role": "Lead Developer",
+      "outcomes": "Top 2 at ZALO AI Challenge 2025",
+      "links": {
+        "github": "https://github.com/vhmtri2401",
+        "demo": "",
+        "paper": ""
+      },
+      "image": "/images/project-1.jpg",
+      "featured": true,
+      "date": "December 2025"
+    },
+    {
+      "id": "project-2",
+      "title": "Breast Cancer Detection from Mammography",
+      "summary": "Deep learning system for breast cancer detection combining ConvNeXt and KAN architectures on mammography images.",
+      "description": "Built a medical imaging pipeline using YOLOX for ROI extraction from mammography data. Developed ConvNeXtKAN, a novel architecture combining ConvNeXt and Kolmogorov-Arnold Networks, and evaluated on multiple mammography datasets.",
+      "tags": [
+        "Medical AI",
+        "Computer Vision",
+        "Deep Learning",
+        "PyTorch"
+      ],
+      "role": "Researcher",
+      "outcomes": "Novel ConvNeXtKAN architecture for medical imaging",
+      "links": {
+        "github": "https://github.com/vhmtri2401",
+        "demo": "",
+        "paper": ""
+      },
+      "image": "/images/project-2.jpg",
+      "featured": true,
+      "date": "January 2025"
+    },
+    {
+      "id": "project-3",
+      "title": "Person Re-Identification System",
+      "summary": "Multi-camera person tracking and re-identification using YOLOv8 and OSNet for cross-camera matching.",
+      "description": "Implemented end-to-end person re-identification pipeline: YOLOv8-pose for person detection, YOLOv8 for tracking, and OSNet for extracting multi-scale features with low computational cost for cross-camera accuracy.",
+      "tags": [
+        "Computer Vision",
+        "Person ReID",
+        "YOLOv8",
+        "Tracking"
+      ],
+      "role": "Developer",
+      "outcomes": "Efficient cross-camera person matching system",
+      "links": {
+        "github": "https://github.com/vhmtri2401",
+        "demo": "",
+        "paper": ""
+      },
+      "image": "/images/project-3.jpg",
+      "featured": true,
+      "date": "May 2025"
+    },
+    {
+      "id": "project-4",
+      "title": "Image Watermark Remover",
+      "summary": "Pix2Pix-based deep learning model for automatic watermark removal from images.",
+      "description": "Developed data processing pipeline for resizing and segmenting images for training. Implemented Pix2Pix GAN architecture using PyTorch for watermark removal with OpenCV-based image processing.",
+      "tags": [
+        "GANs",
+        "Image Processing",
+        "PyTorch",
+        "OpenCV"
+      ],
+      "role": "Developer",
+      "outcomes": "Automated watermark removal system",
+      "links": {
+        "github": "https://github.com/vhmtri2401",
+        "demo": "",
+        "paper": ""
+      },
+      "image": "/images/project-4.jpg",
+      "featured": false,
+      "date": "May 2024"
+    },
+    {
+      "id": "project-5",
+      "title": "English Speaking Evaluation System",
+      "summary": "AI-powered pronunciation assessment tool using Whisper for speech recognition with Flask API.",
+      "description": "Built speech-to-text pipeline using Whisper-tiny model. Developed pronunciation assessment metrics and deployed as REST API using Flask with JWT authentication and Swagger documentation.",
+      "tags": [
+        "NLP",
+        "Speech Recognition",
+        "Whisper",
+        "Flask",
+        "API"
+      ],
+      "role": "Full-stack Developer",
+      "outcomes": "Production-ready pronunciation assessment API",
+      "links": {
+        "github": "https://github.com/vhmtri2401",
+        "demo": "",
+        "paper": ""
+      },
+      "image": "/images/project-5.jpg",
+      "featured": false,
+      "date": "September 2024"
+    },
+    {
+      "id": "project-6",
+      "title": "Banner Generative AI (ZALO AI 2023)",
+      "summary": "Text-to-image banner generation using Stable Diffusion with Vietnamese language support.",
+      "description": "Implemented Vietnamese-to-English translation using vinai-translate model. Fine-tuned Stable Diffusion for banner generation. Used LLM for keyword extraction to enhance prompt understanding and model learning.",
+      "tags": [
+        "Generative AI",
+        "Stable Diffusion",
+        "NLP",
+        "LLM"
+      ],
+      "role": "ML Engineer",
+      "outcomes": "Vietnamese text-to-banner generation system",
+      "links": {
+        "github": "https://github.com/vhmtri2401",
+        "demo": "",
+        "paper": ""
+      },
+      "image": "/images/project-6.jpg",
+      "featured": true,
+      "date": "December 2023"
+    }
+  ],
+  "experience": [
+    {
+      "id": "exp-1",
+      "role": "AI Competition Participant",
+      "org": "ZALO AI Challenge 2025",
+      "dates": "2025",
+      "highlights": [
+        "Runner-up in Robust Aerial Target Tracking challenge",
+        "Developed drone-deployed tracking system with YOLOE",
+        "Implemented Re-prompting and Constant-Velocity Fill Method"
+      ]
+    },
+    {
+      "id": "exp-2",
+      "role": "Data Science Student",
+      "org": "Industrial University of Ho Chi Minh City",
+      "dates": "2020 - 2025",
+      "highlights": [
+        "GPA: 3.22/4.0 in Data Science program",
+        "Completed coursework in ML, CV, and NLP",
+        "Certified in Python at Data Innovation Lab IUH"
+      ]
+    },
+    {
+      "id": "exp-3",
+      "role": "AI Competition Participant",
+      "org": "ZALO AI Challenge 2023",
+      "dates": "2023",
+      "highlights": [
+        "Developed Banner Generative AI system",
+        "Integrated Stable Diffusion with Vietnamese NLP",
+        "Built end-to-end text-to-image pipeline"
+      ]
+    }
+  ],
+  "publications": [],
+  "awards": [
+    {
+      "id": "award-1",
+      "title": "Runner-Up - ZALO AI Challenge 2025",
+      "description": "Robust Aerial Target Tracking competition",
+      "year": 2025
+    },
+    {
+      "id": "award-2",
+      "title": "VSTEP B1 Certificate",
+      "description": "English proficiency certification",
+      "year": null
+    },
+    {
+      "id": "award-3",
+      "title": "Python Certificate",
+      "description": "Data Innovation Lab, IUH",
+      "year": null
+    }
+  ],
+  "skills": {
+    "research": [
+      "Computer Vision",
+      "Object Detection & Tracking",
+      "Image Segmentation",
+      "Natural Language Processing",
+      "Generative AI"
+    ],
+    "engineering": [
+      "Python",
+      "C/C++",
+      "Java",
+      "JavaScript",
+      "SQL"
+    ],
+    "tools": [
+      "PyTorch",
+      "TensorFlow",
+      "OpenCV",
+      "Docker",
+      "YOLO",
+      "Stable Diffusion",
+      "Hugging Face",
+      "Flask",
+      "Git/GitHub"
+    ]
+  }
+}

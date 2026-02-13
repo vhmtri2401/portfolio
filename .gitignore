@@ -1,0 +1,26 @@
+.vercel
+
+# Next.js
+.next/
+out/
+
+# dependencies
+node_modules/
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# local env files
+.env*.local
+
+# agent
+.agent/
+
+# claude settings
+.claude/settings.local.json
