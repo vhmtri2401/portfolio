@@ -16,11 +16,21 @@
   },
   "education": [
     {
+      "id": "edu-2",
+      "degree": "Master of Computer Science (Research-oriented)",
+      "institution": "Industrial University of HCM City",
+      "dates": "December 2025 - Present",
+      "location": "Ho Chi Minh City, Viet Nam",
+      "coursework": [
+        "Research focus: Artificial Intelligence and Computer Vision"
+      ]
+    },
+    {
       "id": "edu-1",
       "degree": "Bachelor of Data Science",
-      "institution": "Industrial University of Ho Chi Minh City (IUH)",
+      "institution": "Industrial University of HCM City",
       "dates": "October 2020 - July 2025",
-      "location": "Ho Chi Minh City, Vietnam",
+      "location": "Ho Chi Minh City, Viet Nam",
       "gpa": "3.22/4.0",
       "coursework": [
         "Data Science",

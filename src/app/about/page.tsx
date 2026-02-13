@@ -30,7 +30,7 @@ export default function AboutPage() {
                 <div className="flex-shrink-0">
                   <div className="relative w-32 h-32 rounded-2xl overflow-hidden">
                     <Image
-                      src="/avatar.jpg"
+                      src={`${process.env.NEXT_PUBLIC_BASE_PATH || ''}/avatar.jpg`}
                       alt={data.profile.name}
                       fill
                       className="object-cover"
