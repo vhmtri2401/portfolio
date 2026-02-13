@@ -1,129 +1,144 @@
-# Vo Hoang Minh Tri - AI Portfolio
+<div align="center">
 
-A modern, performant portfolio website built with Next.js 14, TypeScript, and Tailwind CSS. Features an AI lab aesthetic with glassmorphism design, dark/light mode, and optimized for Lighthouse scores >= 95.
+# 👋 Hi, I'm Vo Hoang Minh Tri
 
-## Features
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=AI+Research+Engineer;Computer+Vision+%7C+Deep+Learning;Building+Intelligent+Vision+Systems;Runner-up+%40+ZALO+AI+Challenge+2025)](https://git.io/typing-svg)
 
-- **Next.js 14 App Router** with static export (SSG)
-- **TypeScript** for type safety
-- **Tailwind CSS** with custom theme and glassmorphism effects
-- **Dark/Light Mode** with system preference detection
-- **SEO Optimized** with metadata, sitemap.xml, robots.txt
-- **Responsive Design** for all screen sizes
-- **Minimal JavaScript** for fast loading
-- **Accessible** following WCAG guidelines
-- **CV Download** available in header and about page
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vhmtri2401@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tr%C3%AD-v%C3%B5-2a03bb39a/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://vhmtri2401.github.io)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vhmtri2401)
 
-## Pages
+</div>
 
-- `/` - Home with hero, featured projects, and CTAs
-- `/projects` - Full project list with search and tag filtering
-- `/about` - Bio, education, experience timeline, awards, and skills
-- `/contact` - Contact form with email integration
+---
 
-## Quick Start
+## 🧑‍💻 About Me
 
-```bash
-# Install dependencies
-npm install
+I'm a **Data Science graduate** from Industrial University of Ho Chi Minh City with a passion for building intelligent systems that solve real-world problems. As **runner-up at ZALO AI Challenge 2025**, I specialize in computer vision, deep learning, and generative AI applications.
 
-# Run development server
-npm run dev
+My work spans from drone-based aerial tracking systems to medical image analysis using novel deep learning architectures. I thrive on research challenges and transforming cutting-edge AI research into production-ready solutions.
 
-# Build for production
-npm run build
+🔬 **Currently exploring**: Advanced object tracking, medical imaging AI, and multimodal deep learning
+📍 **Based in**: Ho Chi Minh City, Vietnam
+🎓 **Education**: B.Sc. in Data Science (GPA: 3.22/4.0)
 
-# Preview production build (after build)
-npx serve out
-```
+---
 
-## Deployment
+## 🔬 Research Interests
 
-### Vercel (Recommended - 2 minutes)
+- **Computer Vision**: Object Detection, Tracking, Segmentation, Person Re-ID
+- **Medical AI**: Diagnostic imaging, novel architectures for healthcare
+- **Generative AI**: Diffusion models, GANs, text-to-image synthesis
+- **Natural Language Processing**: Speech recognition, multilingual models
+- **Deep Learning**: Novel architectures, model optimization, deployment
 
-1. Push code to GitHub:
-   ```bash
-   git init
-   git add .
-   git commit -m "Initial commit"
-   git remote add origin https://github.com/YOUR_USERNAME/portfolio.git
-   git push -u origin main
-   ```
+---
 
-2. Go to [vercel.com](https://vercel.com) and sign in with GitHub
+## 🛠️ Technical Skills
 
-3. Click **"Add New Project"** → Import your repository
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-4. Set environment variable (optional but recommended):
-   - Name: `NEXT_PUBLIC_SITE_URL`
-   - Value: `https://your-project.vercel.app` (update after first deploy)
+### Frameworks & Libraries
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-5. Click **Deploy** - Your site will be live in ~1 minute
+### Tools & Platforms
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-6. After deploy, copy the production URL and update `NEXT_PUBLIC_SITE_URL`
+### Specialized
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-9146FF?style=for-the-badge&logo=stablediffusion&logoColor=white)
 
-### Netlify (Alternative - 2 minutes)
+---
 
-1. Push code to GitHub (same as above)
+## 🚀 Highlighted Projects
 
-2. Go to [netlify.com](https://netlify.com) and sign in with GitHub
+### 🏆 Robust Aerial Target Tracking
+**Runner-up @ ZALO AI Challenge 2025**
 
-3. Click **"Add new site"** → **"Import an existing project"**
+Developed a comprehensive drone-based aerial tracking system using YOLOE with v8m backbone. Implemented background removal preprocessing, Re-prompting, and Constant-Velocity Fill Method for stable predictions. Deployed on drone hardware via Docker.
 
-4. Select your repository
+**Tech Stack**: `PyTorch` `YOLO` `Computer Vision` `Docker` `Drone Systems`
 
-5. Configure build settings:
-   - Build command: `npm run build`
-   - Publish directory: `out`
+---
 
-6. Add environment variable:
-   - Name: `NEXT_PUBLIC_SITE_URL`
-   - Value: Your Netlify URL
+### 🏥 Breast Cancer Detection from Mammography
+**Novel ConvNeXtKAN Architecture**
 
-7. Click **Deploy site**
+Built medical imaging pipeline using YOLOX for ROI extraction from mammography data. Developed **ConvNeXtKAN**, a novel architecture combining ConvNeXt and Kolmogorov-Arnold Networks for enhanced breast cancer detection.
 
-### CLI Deployment (if logged in)
+**Tech Stack**: `Deep Learning` `Medical AI` `PyTorch` `YOLOX`
 
-```bash
-# Vercel
-npx vercel --prod
+---
 
-# Set production URL after first deploy
-npx vercel env add NEXT_PUBLIC_SITE_URL
-```
+### 👤 Person Re-Identification System
+**Multi-camera Tracking & Matching**
 
-## Customizing Content
+End-to-end person re-identification pipeline using YOLOv8-pose for detection, YOLOv8 for tracking, and OSNet for extracting multi-scale features with low computational cost for cross-camera accuracy.
 
-All portfolio content is stored in `info/data.json`. Edit this file to update your information.
+**Tech Stack**: `Computer Vision` `YOLOv8` `Person ReID` `Tracking`
 
-## Performance
+---
 
-Target Lighthouse scores (all >= 95):
-- Performance: >= 95
-- Accessibility: >= 95
-- Best Practices: >= 95
-- SEO: >= 95
+### 🎨 Banner Generative AI
+**ZALO AI Challenge 2023**
 
-## Project Structure
+Text-to-image banner generation system with Vietnamese language support. Integrated Vietnamese-to-English translation, fine-tuned Stable Diffusion, and used LLMs for keyword extraction.
 
-```
-portfolio/
-├── info/
-│   ├── data.json          # Portfolio content
-│   └── CV_vhmtri.pdf      # Original CV
-├── public/
-│   ├── avatar.jpg         # Profile photo
-│   ├── cv.pdf             # Downloadable CV
-│   ├── favicon.svg        # Site favicon
-│   ├── og.png             # OG image (add this)
-│   └── images/            # Project images (add these)
-├── src/
-│   ├── app/               # Next.js pages
-│   ├── components/        # React components
-│   └── lib/               # Data utilities
-└── package.json
-```
+**Tech Stack**: `Stable Diffusion` `Generative AI` `NLP` `LLM`
 
-## License
+---
 
-MIT License
+### 🎤 English Speaking Evaluation System
+**AI-powered Pronunciation Assessment**
+
+Built speech-to-text pipeline using Whisper-tiny model with pronunciation assessment metrics. Deployed as production REST API using Flask with JWT authentication and Swagger documentation.
+
+**Tech Stack**: `Whisper` `NLP` `Flask` `Speech Recognition` `API`
+
+---
+
+## 🏅 Achievements
+
+🥈 **Runner-Up** - ZALO AI Challenge 2025 (Robust Aerial Target Tracking)
+📜 **Python Certificate** - Data Innovation Lab, IUH
+🌐 **VSTEP B1 Certificate** - English Proficiency
+🎓 **B.Sc. in Data Science** - GPA: 3.22/4.0
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vhmtri2401&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vhmtri2401&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=bf91f3&currStreakLabel=70a5fd)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vhmtri2401&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Let's Connect!
+
+I'm actively seeking **AI Research Engineer internships** at **FAANG companies** and **AI startups**.
+Open to collaborations on computer vision, medical AI, and deep learning research.
+
+**"Building the future, one model at a time"** 🚀
+
+</div>
